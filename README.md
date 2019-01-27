@@ -1,5 +1,5 @@
 # Human Mobility Index
---
+
 
 The distance among villages, cities, regions, countries, and other socio-economic and political entities has long been considered an important aspect in the explanation of their comparative political and economic development. While theories abound about how geographical isolation and distances affect trade, warfare, epidemics, colonization among many others, there is a lack of systematic historical data on communication and transportation costs, as well as geographical distances. This has led many scholars to use great circle distances as a proxy. This measure, however, is rather crude as it does not capture the large variation in the geographical and technological conditions underlying similar great circle distances in different periods.
 
