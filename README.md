@@ -33,7 +33,7 @@ If you use the data, please cite:
 
 [Özak, Ömer. "The voyage of homo-economicus: Some economic measures of distance." Department of Economics, Brown University (2010).](http://omerozak.com/pdf/Ozak_voyage.pdf)
 
-#Issues
+# Issues
 
 Find a bug? Report it via github issues by providing
 
@@ -41,11 +41,11 @@ Find a bug? Report it via github issues by providing
 - python code or command to reproduce the error
 - information on your environment: versions of python, gdal and numpy and system memory
 
-#Copyright
+# Copyright
 
 This data is provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 
-#More Information
+# More Information
 
 Coming Soon
 
