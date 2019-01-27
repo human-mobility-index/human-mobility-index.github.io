@@ -1,7 +1,11 @@
 theme: jekyll-theme-cayman
 title: Human Mobility Index
 description: Measuring mobility across the globe across time
-
-            Ömer Özak (c)
 show_downloads: true
 google_analytics: UA-48650617-4
+github:
+  is_project_page: true
+# About/contact
+author:
+  name:       Ömer Özak
+  url:        http://omerozak.com
