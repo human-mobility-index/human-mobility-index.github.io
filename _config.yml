@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Human Mobility Index
+description: Measure of mobility across the globe in different time periods
+show_downloads: true
+google_analytics: UA-48650617-4
