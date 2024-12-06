@@ -29,7 +29,7 @@ You can also download [all files simultaneously here](https://zenodo.org/api/rec
 
 ## Python Package
 
-Coming Soon
+You can use the [`hmi`](https://pypi.org/project/hmi/0.1/) Python package to compute distances and perform other analyses using the Human Mobility Index measures. See the [GitHub repo](https://github.com/human-mobility-index/hmi) for more information and examples.
 
 ## Citation
 
