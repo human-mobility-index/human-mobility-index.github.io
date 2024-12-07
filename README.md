@@ -27,7 +27,7 @@ To speed up computations, it may be useful to use coarser rasters (especially fo
 
 You can also download [all files simultaneously here](https://zenodo.org/api/records/14285746/files-archive).
 
-## Python Package
+## Python Package [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14291903.svg)](https://doi.org/10.5281/zenodo.14291903)
 
 You can use the [`hmi`](https://pypi.org/project/hmi/0.1/) Python package to compute distances and perform other analyses using the Human Mobility Index measures. See the [GitHub repo](https://github.com/human-mobility-index/hmi) for more information and examples.
 
